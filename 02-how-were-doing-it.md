@@ -5,7 +5,7 @@ The ultimate goal is for our attendees and you to have fun! We're trying to demy
 
 So, what can you do to help get us there?
 
-## Inspire
+## Create A Safe Environment
 The most important thing you can do as a mentor is to make people feel they are in a safe learning environment. The worst outcome is for a student to leave frustrated, confused, or belittled and never wanting to try programming again.
 
 ## Help with Logistics
@@ -18,7 +18,7 @@ We need your help with these logistical items to make the session a success:
 ## Help the Teacher Read the Room
 In general, teachers, especially new ones, tend to go too quickly. If you can tell students are confused, try offering to repeat your own explanation of a concept. Even just hearing it again can help and spark new questions.
 
-## Foster Collaboration  
+## Foster Collaboration
 Take an interest in the attendees. Help foster collaboration and be approachable. Learn names, hobbies, interests, etc. Ask them what got them interested or how they heard about our program, for example. Find ways to make yourself relatable. Let attendees know about your own struggles in learning and embrace your blind spots in knowledge.
 
 No one knows everything and being vulnerable enough to admit that gives us all the opportunity to feel comfortable and learn!
@@ -31,7 +31,7 @@ Maintaining a positive atmosphere is in your competent hands! Encouraging respon
 * Sharing something about yourself is a great icebreaker
 * Correct someone if they're wrong, but do it politely and with encouragement
  * Ask them how they got to that conclusion
- * Phrase the correction as a different option or as a suggestion  
+ * Phrase the correction as a different option or as a suggestion
  * Guide them gently to the correct answer
 * Walk the middle path: don't go too deep or too shallow in your explanations
 * Avoid the trap of too much specificity
@@ -47,8 +47,8 @@ Imposter syndrome is the inability to internalize accomplishments despite outwar
 We want you to show up at your best and highly encourage you to maintain a good work-volunteer-life balance. If you need a break, please make sure to take time to yourself! We believe there is no shame in the reality of maintaining temporary or ongoing mental health issues or needs. We actively work to develop a **healthy and vibrant** community of mentors who can support each other in our common goals.
 
 ## Remember
-Put yourself in their place. As an attendee you are: 
-* Learning something for the first time  
+Put yourself in their place. As an attendee you are:
+* Learning something for the first time
 * Trying something possibly completely different than you ever have before
 * Trying something you've possibly abandoned before due to frustrations
 * Not familiar with jargon or terminology
