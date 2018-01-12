@@ -1,3 +1,7 @@
+# Tips
+
+---
+
 ## Do not
 * Assume that because someone isn't asking for help, they don't have any questions
  * Instead, check in with attendees and ask them how they're doing or if they need help

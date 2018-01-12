@@ -1,3 +1,6 @@
+# How We're Doing It
+
+---
 The ultimate goal is for our attendees and you to have fun! We're trying to demystify coding and get people excited about it. We want our students to feel **socially comfortable**, **technically capable**, and like as a mentor, you are **approachable and can help solve their problems**.
 
 So, what can you do to help get us there?

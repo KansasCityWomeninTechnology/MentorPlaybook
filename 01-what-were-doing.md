@@ -1,6 +1,10 @@
 <p align="center">
     <img align="middle" src="assets/logo-kcwit.png" alt="KC Women in Tech" />
 </p>
+
+# What We're Doing
+
+---
 Thanks for joining us in helping more women in our community feel empowered!! We're [Kansas City Women in Technology](http://kcwomenintech.org), a grassroots organization helping to grow the number of women in technology careers in Kansas City. We're excited to have you and want to set you up for success in your role as a mentor. We want you to have fun and also be a valuable part of our community. Please use this playbook as your guide in providing our attendees and yourself with the best experience possible.
 
 ## Requirements to mentor
