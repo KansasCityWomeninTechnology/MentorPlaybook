@@ -4,8 +4,9 @@
 
 ## Do not
 * Assume that because someone isn't asking for help, they don't have any questions
- * Instead, check in with attendees and ask them how they're doing or if they need help
- * You can also sit next to someone and ask them what they're working on
+    {% hint style='info' %}
+Instead, check in with attendees and ask them how they're doing or if they need help. You can also sit next to someone and ask them what they're working on
+    {% endhint %}
 * Touch keyboards (generally) or answer questions before they're asked
  * There's nothing more frustrating than someone not allowing you the chance to try
  * Ask politely first if there's an exception to this rule
@@ -14,7 +15,7 @@
 * Debate which programming language, methods, or technologies are "better"
  * Doing so can confuse and overwhelm learners
  * “Language shaming” does not reflect the values of Kansas City Women in Technology
- 
+
 ## Do
 * Make eye contact and maintain an approachable demeanor
  * Body language makes up as much as 97% of communication
@@ -39,7 +40,7 @@
 * Use your judgement for when it's best to provide a quick workaround instead of a more time consuming “perfect” fix
 
 ## Words and phrases to avoid
-* “Well, actually...”	
+* “Well, actually...”
  * Often provides minor corrections not conducive to furthering 		understanding
 * “It's easy.”
  * Could imply the learner shouldn't need help or should have known the answer
