@@ -13,6 +13,6 @@ Also, please know we're always available if you need to speak with us about anyt
 </br>
 
 <p align="center">
-    <img height="50%" width="50%" align="middle" src="images/cc-kcwit.png" alt="KC Women in Tech" />
+    <img align="middle" src="images/cc-kcwit.png" alt="KC Women in Tech" />
 </p>
 ##### _This work is licensed by _[_http://kcwomenintech.org/_](http://kcwomenintech.org/)_ under a _[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
