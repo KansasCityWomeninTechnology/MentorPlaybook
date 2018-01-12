@@ -8,7 +8,7 @@ Also, please know we're always available if you need to speak with us about anyt
 
 ##### _This document was created with inspiration and guidance from the _[_Django Girls Coaching Manual_](https://coach.djangogirls.org/)_, the _[_RailsBridge Workshop TA documents_](http://docs.railsbridge.org/workshop/ta_cheat_sheet)_, and the _[_Recurse Center’s User Manual_](https://www.recurse.com/manual)_._
 
+<p align="center">
+    <img align="middle" src="images/cc-kcwit.png" alt="KC Women in Tech" />
+</p>
 ##### _This work is licensed by _[_http://kcwomenintech.org/_](http://kcwomenintech.org/)_ under a _[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-
-
