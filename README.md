@@ -13,9 +13,9 @@ Thanks for joining us in helping more women in our community feel empowered! We'
 * A willingness to donate your free time and contribute to your local tech community  
 
 ## Why mentor
-* Get to know your fellow developers outside of your normal peer groups.
-* Reinforce your own knowledge by finding new ways to teach concepts to beginners.
-* Help combat stereotypes by nurturing diversity in order to enrich our tech community.
+* Get to know your fellow developers outside of your normal peer groups
+* Reinforce your own knowledge by finding new ways to teach concepts to beginners
+* Help combat stereotypes by nurturing diversity in order to enrich our tech community
 * Gain new knowledge and strengthen your teaching skills
 * Professional development through networking and resume building
 * Leadership development opportunities
