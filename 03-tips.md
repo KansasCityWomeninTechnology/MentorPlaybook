@@ -11,6 +11,7 @@
  There's nothing more frustrating than someone not allowing you the chance to try. Ask politely first if there's an exception to this rule.{% endhint %}
 * Use the time to advertise our own companies/jobs/ourselves
 * Pick on or make fun of anyone or anything
+* Use slang or highly technical terms
 * Debate which programming language, methods, or technologies are "better"
 {% hint style='info' %}
   Doing so can confuse and overwhelm learners. “Language shaming” does not reflect the values of Kansas City Women in Technology.{% endhint %}
@@ -31,14 +32,13 @@
 * Let them know it's more than ok to take breaks
 * Help them feel capable by allowing them to do things like perform online searches for information or think a problem through out loud
 * Asses skill-levels and adjust your teaching to match
-* Don't use slang or highly technical terms
 * Be ready to explain the same thing multiple ways, multiple times; analogies can also be really helpful
 * Make learning accessible; allow for larger fonts or different mediums for communication
 * Use your judgement for when it's best to provide a quick workaround instead of a more time consuming “perfect” fix
 
 ## Words and phrases to avoid
 * “Well, actually...”
- * Often provides minor corrections not conducive to furthering 		understanding
+ * Often provides minor corrections not conducive to furthering understanding
 * “It's easy.”
  * Could imply the learner shouldn't need help or should have known the answer
 * “Just...“
