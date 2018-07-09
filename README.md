@@ -26,7 +26,7 @@ Beyond the session time commitment, we'd also like you to familiarize yourself w
 
 
 ## Inclusivity
-We are open to all skill-levels, regardless of chosen or perceived identities. Our programs are geared towards attendees with the goal in mind to **promote diversity within the tech community**. We focus on specifically providing those who identify as women the opportunity to participate in order to provide a balance to the typical demographics of most developer peer groups. With that in mind, you're expected to adhere to the [Code of Conduct](http://kansascitywomenintechnology.github.io/CodeOfConduct/) to help us create a nurturing environment for all. If you see or experience any behavior which violates our Code of Conduct or makes you feel unsafe or unwelcome in any way, you can report it [here](http://kansascitywomenintechnology.github.io/CodeOfConduct/#reporting).
+We are open to all skill-levels, regardless of personal or perceived identities. Our programs are geared towards attendees with the goal in mind to **promote diversity within the tech community**. We focus on specifically providing those who identify as women the opportunity to participate in order to provide a balance to the typical demographics of most developer peer groups. With that in mind, you're expected to adhere to the [Code of Conduct](http://kansascitywomenintechnology.github.io/CodeOfConduct/) to help us create a nurturing environment for all. If you see or experience any behavior which violates our Code of Conduct or makes you feel unsafe or unwelcome in any way, you can report it [here](http://kansascitywomenintechnology.github.io/CodeOfConduct/#reporting).
 
 
 
