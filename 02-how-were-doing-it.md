@@ -1,7 +1,7 @@
 # How We're Doing It
 
 ---
-The ultimate goal is for our attendees and you to have fun! We're trying to demystify coding and get people excited about it. We want our students to feel **socially comfortable**, **technically capable**, and like as a mentor, you are **approachable and can help solve their problems**.
+The ultimate goal is for our attendees and you to have fun! We're trying to demystify coding and get people excited about it. We want our students to feel **socially comfortable**, **technically capable**, and like as a mentor, you are **approachable and can help them find solutions to their problems**.
 
 So, what can you do to help get us there?
 
@@ -19,9 +19,8 @@ We need your help with these logistical items to make the session a success:
 In general, teachers, especially new ones, tend to go too quickly. If you can tell students are confused, try offering to repeat your own explanation of a concept. Even just hearing it again can help and spark new questions.
 
 ## Foster Collaboration
-Take an interest in the attendees. Help foster collaboration and be approachable. Learn names, hobbies, interests, etc. Ask them what got them interested or how they heard about our program, for example. Find ways to make yourself relatable. Let attendees know about your own struggles in learning and embrace your blind spots in knowledge.
-
-No one knows everything and being vulnerable enough to admit that gives us all the opportunity to feel comfortable and learn!
+Take an interest in the attendees. Help foster collaboration and be approachable. Learn names, hobbies, interests, etc. Ask them what got them interested or how they heard about our program, for example. Find ways to make yourself relatable. Let attendees know about your struggles and embrace blind spots in your knowledge.
+No one knows everything and being vulnerable enough to admit that gives us all the opportunity to feel comfortable and learn together!
 
 ## Formulating good responses
 Maintaining a positive atmosphere is in your competent hands! Encouraging responses to questions goes a long way in nurturing learning.
@@ -38,13 +37,13 @@ Maintaining a positive atmosphere is in your competent hands! Encouraging respon
 
 ## Removing the roadblocks
 #### Fear
-People often fear making mistakes. Reinforcing the fact that as developers, we are constantly learning can help. By providing a judgement free zone for them to play around in and explore, we can help attendees make mistakes without any risk or fear.
+People often fear making mistakes. Reinforcing the fact that as developers, we are constantly learning can help. By providing a judgement free zone for them to play around in and explore, we can help attendees make mistakes without any risk or fear. Remember to be patient as well- accept that not understanding something is part of the path to understanding it. 
 
 #### Impostor syndrome
-Imposter syndrome is the inability to internalize accomplishments despite outward evidence of one's own competency. **Impostor syndrome tends to be particularly common among women**. You can help to combat imposter syndrome by reassuring attendees that they are capable and making progress. Celebrate their accomplishments and encourage them to continue their learning beyond the session. Let them deviate from the session content where appropriate and let them make customizations where they feel comfortable. Also, compliment their work and reflect on the progress they've made whenever the chance arises.
+Impostor syndrome is the inability to internalize accomplishments despite outward evidence of one's own competency. **Impostor syndrome tends to be particularly common among women**. You can help by reassuring attendees that they are capable and making progress. Celebrate their accomplishments and encourage them to continue their learning beyond the session. Let them deviate from the session content where appropriate and let them make customizations where they feel comfortable. Also, compliment their work and reflect on the progress they've made whenever the chance arises.
 
 ## Practice self-care
-We want you to show up at your best and highly encourage you to maintain a good work-volunteer-life balance. If you need a break, please make sure to take time to yourself! We believe there is no shame in the reality of maintaining temporary or ongoing mental health issues or needs. We actively work to develop a **healthy and vibrant** community of mentors who can support each other in our common goals.
+We want you to show up at your best and highly encourage you to maintain a good work-volunteer-life balance. If you need a break, please make sure to take time to yourself! We believe there is no shame in the reality of maintaining temporary or ongoing mental health needs. We actively work to develop a **healthy and vibrant** community of mentors who can support each other in our common goals.
 
 ## Remember
 Put yourself in their place. As an attendee you are:

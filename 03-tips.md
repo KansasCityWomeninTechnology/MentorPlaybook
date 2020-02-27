@@ -31,7 +31,7 @@
 * Gauge their frustration
 * Let them know it's more than ok to take breaks
 * Help them feel capable by allowing them to do things like perform online searches for information or think a problem through out loud
-* Asses skill-levels and adjust your teaching to match
+* Assess skill-levels and adjust your teaching to match
 * Be ready to explain the same thing multiple ways, multiple times; analogies can also be really helpful
 * Make learning accessible; allow for larger fonts or different mediums for communication
 * Use your judgement for when it's best to provide a quick workaround instead of a more time consuming “perfect” fix
@@ -39,7 +39,7 @@
 ## Words and phrases to avoid
 * “Well, actually...”
  * Often provides minor corrections not conducive to furthering understanding
-* “It's easy.”
+* “It's easy/obvious.”
  * Could imply the learner shouldn't need help or should have known the answer
 * “Just...“
  * Implies the concept is simple

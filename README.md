@@ -22,11 +22,8 @@ Thanks for joining us in helping more women in our community feel empowered! We'
 * Have fun with a great group of people!  
 
 ## Time commitment
-Beyond the session time commitment, we'd also like you to familiarize yourself with the session content, such as tutorials and general information on the topic. We don't expect anyone to be an expert though, as your peers are there to support you throughout your mentoring. Mostly we want you to show up, be present and accessible, and enjoy the experience!  
-
+Beyond the session time commitment, we'd also like you to familiarize yourself with the session content and review it ahead of time. We don't expect anyone to be an expert though - your peers are there to support you. Mostly we want you to show up, be present and accessible, and enjoy the experience!  
 
 ## Inclusivity
-We are open to all skill-levels, regardless of personal or perceived identities. Our programs are geared towards attendees with the goal in mind to **promote diversity within the tech community**. We focus on specifically providing those who identify as women the opportunity to participate in order to provide a balance to the typical demographics of most developer peer groups. With that in mind, you're expected to adhere to the [Code of Conduct](http://kansascitywomenintechnology.github.io/CodeOfConduct/) to help us create a nurturing environment for all. If you see or experience any behavior which violates our Code of Conduct or makes you feel unsafe or unwelcome in any way, you can report it [here](http://kansascitywomenintechnology.github.io/CodeOfConduct/#reporting).
-
-
+We are open to all skill-levels, regardless of personal or perceived identities. Our programs are geared towards attendees with the goal in mind to **promote diversity within the tech community**. As such, we focus on providing those who identify as women the opportunity to participate in our program. This is to provide a balance to the typical demographics of most developer peer groups. With that in mind, you're expected to adhere to the [Code of Conduct](http://kansascitywomenintechnology.github.io/CodeOfConduct/) to help us create a nurturing environment for all. If you see or experience any behavior which violates our Code of Conduct or makes you feel unsafe or unwelcome in any way, you can report it [here](http://kansascitywomenintechnology.github.io/CodeOfConduct/#reporting).
 
