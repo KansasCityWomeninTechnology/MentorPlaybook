@@ -5,7 +5,7 @@
 # What We're Doing
 
 ---
-Thanks for joining us in helping more women in our community feel empowered! We're [Kansas City Women in Technology](http://kcwomenintech.org), a grassroots organization helping to grow the number of women in technology careers in Kansas City. We're excited to have you and want to set you up for success in your role as a mentor. We want you to have fun and also be a valuable part of our community. Please use this playbook as your guide in providing our attendees and yourself with the best experience possible.
+Thanks for joining us in helping more women in our community feel empowered! We're [Kansas City Women in Technology](https://kcwomenintech.org), a grassroots organization helping to grow the number of women in technology careers in Kansas City. We're excited to have you and want to set you up for success in your role as a mentor. We want you to have fun and also be a valuable part of our community. Please use this playbook as your guide in providing our attendees and yourself with the best experience possible.
 
 ## Requirements to mentor
 * Lots of patience and a friendly attitude
@@ -25,5 +25,5 @@ Thanks for joining us in helping more women in our community feel empowered! We'
 Beyond the session time commitment, we'd also like you to familiarize yourself with the session content and review it ahead of time. We don't expect anyone to be an expert though - your peers are there to support you. Mostly we want you to show up, be present and accessible, and enjoy the experience!  
 
 ## Inclusivity
-We are open to all skill-levels, regardless of personal or perceived identities. Our programs are geared towards attendees with the goal in mind to **promote diversity within the tech community**. As such, we focus on providing those who identify as women the opportunity to participate in our program. This is to provide a balance to the typical demographics of most developer peer groups. With that in mind, you're expected to adhere to the [Code of Conduct](http://kansascitywomenintechnology.github.io/CodeOfConduct/) to help us create a nurturing environment for all. If you see or experience any behavior which violates our Code of Conduct or makes you feel unsafe or unwelcome in any way, you can report it [here](http://kansascitywomenintechnology.github.io/CodeOfConduct/#reporting).
+We are open to all skill-levels, regardless of personal or perceived identities. Our programs are geared towards attendees with the goal in mind to **promote diversity within the tech community**. As such, we focus on providing those who identify as women the opportunity to participate in our program. This is to provide a balance to the typical demographics of most developer peer groups. With that in mind, you're expected to adhere to the [Code of Conduct](https://kansascitywomenintechnology.github.io/CodeOfConduct/) to help us create a nurturing environment for all. If you see or experience any behavior which violates our Code of Conduct or makes you feel unsafe or unwelcome in any way, you can report it [here](https://kansascitywomenintechnology.github.io/CodeOfConduct/#reporting).
 
