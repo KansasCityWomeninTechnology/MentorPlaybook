@@ -3,7 +3,7 @@
 ---
 
 ## Tips
-* Prepare like you would for in-person mentoring. Make sure you to go over the content
+* Prepare like you would for in-person mentoring. Make sure to go over the content
 the mentee is going to be working on.
 * Introduce yourself! Send a message on the slack channel or do a quick video
 meeting introducing yourself to your mentees. This is a great way to become
